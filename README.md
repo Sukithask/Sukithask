@@ -1,9 +1,9 @@
-<!-- Replace USERNAME everywhere with your GitHub username.
+<!-- Replace Sukithask everywhere with your GitHub Sukithask.
      Theme: Black 0B0D0A | Lime C6F35B | Olive 8CB82A | Text EDEDE6 -->
 
 <!-- ============ HERO ============ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/hero.svg" width="100%" alt="Sukitha SK, Mechatronics Engineering Student" />
+  <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/hero.svg" width="100%" alt="Sukitha SK, Mechatronics Engineering Student" />
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
   <a href="https://www.linkedin.com/in/sukitha-sanjeevkumar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-C6F35B?labelColor=161A12&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sksukitha07@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-C6F35B?labelColor=161A12&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Coimbatore-India-C6F35B?labelColor=161A12&style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Visitors&color=8CB82A&labelColor=161A12&style=for-the-badge" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?Sukithask=Sukithask&label=Visitors&color=8CB82A&labelColor=161A12&style=for-the-badge" alt="Visitors" />
 </p>
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/divider.svg" width="100%" height="6" alt="" />
+<img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="6" alt="" />
 
 <!-- ============ 01 ABOUT ============ -->
 ## [ 01 ] About Me
@@ -37,7 +37,7 @@ I turn ideas into practical solutions for **assistive technology, healthcare, au
 
 </td>
 <td width="48%" align="center" valign="middle">
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/terminal.svg" width="100%" alt="Animated terminal" />
+<img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/terminal.svg" width="100%" alt="Animated terminal" />
 </td>
 </tr>
 </table>
@@ -56,10 +56,10 @@ I'm also active in student communities as **Core Head of IETE Student Forum**, *
 ## [ 02 ] Hardware I Work With
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/components.svg" width="100%" alt="Animated microcontroller, servo, gears and bolt" />
+  <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/components.svg" width="100%" alt="Animated microcontroller, servo, gears and bolt" />
 </p>
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/divider.svg" width="100%" height="6" alt="" />
+<img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="6" alt="" />
 
 <!-- ============ 03 SKILLS ============ -->
 ## [ 03 ] Tech Arsenal
@@ -94,13 +94,13 @@ I'm also active in student communities as **Core Head of IETE Student Forum**, *
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/divider.svg" width="100%" height="6" alt="" />
+<img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="6" alt="" />
 
 <!-- ============ 04 PROJECTS ============ -->
 ## [ 04 ] How My Systems Think
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/pcb.svg" width="100%" alt="Animated sensors to microcontroller to actuators signal flow" />
+  <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/pcb.svg" width="100%" alt="Animated sensors to microcontroller to actuators signal flow" />
 </p>
 
 ## [ 05 ] Featured Projects
@@ -147,7 +147,7 @@ A low-cost system that monitors IV fluid levels in real time and alerts nurses i
 <!-- Tip: add a real photo of a project by uploading it to assets/ and adding:
      <img src="assets/spar-photo.jpg" width="100%" alt="BTC SPAR robotic arm" /> -->
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/divider.svg" width="100%" height="6" alt="" />
+<img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="6" alt="" />
 
 <!-- ============ 06 EXPERIENCE ============ -->
 ## [ 06 ] Experience
@@ -189,30 +189,30 @@ A low-cost system that monitors IV fluid levels in real time and alerts nurses i
   <img src="https://img.shields.io/badge/NPTEL-3%20Courses-C6F35B?labelColor=161A12&style=for-the-badge" alt="NPTEL" />
 </p>
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/divider.svg" width="100%" height="6" alt="" />
+<img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="6" alt="" />
 
 <!-- ============ 07 GITHUB ACTIVITY ============ -->
 ## [ 07 ] GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&bg_color=0B0D0A&title_color=C6F35B&text_color=EDEDE6&icon_color=C6F35B&border_color=262B1E" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&bg_color=0B0D0A&title_color=C6F35B&text_color=EDEDE6&border_color=262B1E" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?Sukithask=Sukithask&show_icons=true&bg_color=0B0D0A&title_color=C6F35B&text_color=EDEDE6&icon_color=C6F35B&border_color=262B1E" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?Sukithask=Sukithask&layout=compact&bg_color=0B0D0A&title_color=C6F35B&text_color=EDEDE6&border_color=262B1E" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&background=0B0D0A&border=262B1E&ring=C6F35B&fire=C6F35B&currStreakNum=EDEDE6&sideNums=EDEDE6&currStreakLabel=C6F35B&sideLabels=8A8F82&dates=8A8F82" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sukithask&background=0B0D0A&border=262B1E&ring=C6F35B&fire=C6F35B&currStreakNum=EDEDE6&sideNums=EDEDE6&currStreakLabel=C6F35B&sideLabels=8A8F82&dates=8A8F82" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0B0D0A&color=C6F35B&line=C6F35B&point=FFFFFF&area=true&area_color=C6F35B&title_color=C6F35B&hide_border=true" width="100%" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?Sukithask=Sukithask&bg_color=0B0D0A&color=C6F35B&line=C6F35B&point=FFFFFF&area=true&area_color=C6F35B&title_color=C6F35B&hide_border=true" width="100%" alt="Contribution graph" />
 </p>
 
 <!-- Snake: appears after you add .github/workflows/snake.yml and run it once -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" width="100%" alt="Snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/output/github-snake.svg" width="100%" alt="Snake eating my contributions" />
 </p>
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/divider.svg" width="100%" height="6" alt="" />
+<img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="6" alt="" />
 
 ## [ 08 ] Let's Connect
 
@@ -225,4 +225,4 @@ I'm happy to connect with students, engineers, mentors and teams working in **ro
 
 <p align="center"><sub><code>[ end of file · thanks for visiting ]</code></sub></p>
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/divider.svg" width="100%" height="6" alt="" />
+<img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="6" alt="" />
