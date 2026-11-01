@@ -90,13 +90,7 @@ I'm also active in student communities as **Core Head of IETE Student Forum**, *
 <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="6" alt="" />
 
 <!-- ============ 03 PROJECTS ============ -->
-## [ 03 ] How My Systems Think
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/pcb.svg" width="100%" alt="Animated sensors to microcontroller to actuators signal flow" />
-</p>
-
-## [ 04 ] Featured Projects
+## [ 03 ] Featured Projects
 
 <table>
 <tr>
@@ -142,8 +136,8 @@ A low-cost system that monitors IV fluid levels in real time and alerts nurses i
 
 <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="6" alt="" />
 
-<!-- ============ 05 EXPERIENCE ============ -->
-## [ 05 ] Experience
+<!-- ============ 04 EXPERIENCE ============ -->
+## [ 04 ] Experience
 
 | Role | Company | Highlights |
 |:---|:---|:---|
@@ -184,8 +178,8 @@ A low-cost system that monitors IV fluid levels in real time and alerts nurses i
 
 <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="6" alt="" />
 
-<!-- ============ 06 GITHUB ACTIVITY ============ -->
-## [ 06 ] GitHub Activity
+<!-- ============ 05 GITHUB ACTIVITY ============ -->
+## [ 05 ] GitHub Activity
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?Sukithask=Sukithask&show_icons=true&bg_color=0B0D0A&title_color=C6F35B&text_color=EDEDE6&icon_color=C6F35B&border_color=262B1E" alt="GitHub stats" />
@@ -207,7 +201,7 @@ A low-cost system that monitors IV fluid levels in real time and alerts nurses i
 
 <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="6" alt="" />
 
-## [ 07 ] Let's Connect
+## [ 06 ] Let's Connect
 
 I'm happy to connect with students, engineers, mentors and teams working in **robotics, IoT, embedded systems, assistive technology, mechanical design and industrial automation**.
 
