@@ -1,4 +1,4 @@
-<!-- Replace USERNAME everywhere with your GitHub username.
+<!-- Replace Sukithask everywhere with your GitHub Sukithask.
      Theme: Dark brown 4A3B2A | Brown 8B6B4A | Camel B89B72 | Sand E8DCC4 | Cream F5EEDC -->
 
 <!-- ============ HEADER ============ -->
@@ -14,10 +14,10 @@
   <a href="https://www.linkedin.com/in/sukitha-sanjeevkumar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B6B4A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sksukitha07@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-B89B72?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Coimbatore-India-EADFCB?style=for-the-badge&logo=googlemaps&logoColor=4A3B2A" alt="Location" />
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Visitors&color=4A3B2A&style=for-the-badge" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?Sukithask=Sukithask&label=Visitors&color=4A3B2A&style=for-the-badge" alt="Visitors" />
 </p>
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/divider.svg" width="100%" height="4" alt="" />
+<img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="4" alt="" />
 
 <!-- ============ ABOUT (2 columns) ============ -->
 ## About Me
@@ -36,7 +36,7 @@ I enjoy turning ideas into practical solutions for **assistive technology, healt
 
 </td>
 <td width="48%" align="center" valign="middle">
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/robot-arm.svg" width="100%" alt="Animated robotic arm" />
+<img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/robot-arm.svg" width="100%" alt="Animated robotic arm" />
 </td>
 </tr>
 </table>
@@ -61,7 +61,7 @@ I'm also active in student communities as **Core Head of IETE Student Forum**, *
 
 </details>
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/divider.svg" width="100%" height="4" alt="" />
+<img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="4" alt="" />
 
 <!-- ============ SKILLS (3 columns) ============ -->
 ## Tech Arsenal
@@ -96,7 +96,7 @@ I'm also active in student communities as **Core Head of IETE Student Forum**, *
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/divider.svg" width="100%" height="4" alt="" />
+<img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="4" alt="" />
 
 <!-- ============ PROJECTS (2 x 2) ============ -->
 ## Featured Projects
@@ -140,7 +140,7 @@ A low-cost system that monitors IV fluid levels in real time and alerts nurses i
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/divider.svg" width="100%" height="4" alt="" />
+<img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="4" alt="" />
 
 <!-- ============ EXPERIENCE ============ -->
 ## Experience
@@ -183,30 +183,30 @@ A low-cost system that monitors IV fluid levels in real time and alerts nurses i
   <img src="https://img.shields.io/badge/NPTEL-3%20Courses-EADFCB?style=for-the-badge" alt="NPTEL" />
 </p>
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/divider.svg" width="100%" height="4" alt="" />
+<img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="4" alt="" />
 
 <!-- ============ GITHUB ACTIVITY ============ -->
 ## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&bg_color=F5EEDC&title_color=8B6B4A&text_color=4A3B2A&icon_color=B89B72&border_color=D4C2A0" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&bg_color=F5EEDC&title_color=8B6B4A&text_color=4A3B2A&border_color=D4C2A0" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?Sukithask=Sukithask&show_icons=true&bg_color=F5EEDC&title_color=8B6B4A&text_color=4A3B2A&icon_color=B89B72&border_color=D4C2A0" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?Sukithask=Sukithask&layout=compact&bg_color=F5EEDC&title_color=8B6B4A&text_color=4A3B2A&border_color=D4C2A0" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&background=F5EEDC&border=D4C2A0&ring=B89B72&fire=8B6B4A&currStreakNum=4A3B2A&sideNums=4A3B2A&currStreakLabel=B89B72&sideLabels=8B6B4A&dates=8B7B66" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sukithask&background=F5EEDC&border=D4C2A0&ring=B89B72&fire=8B6B4A&currStreakNum=4A3B2A&sideNums=4A3B2A&currStreakLabel=B89B72&sideLabels=8B6B4A&dates=8B7B66" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=F5EEDC&color=8B6B4A&line=B89B72&point=4A3B2A&area=true&area_color=D4C2A0&title_color=4A3B2A&hide_border=true" width="100%" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?Sukithask=Sukithask&bg_color=F5EEDC&color=8B6B4A&line=B89B72&point=4A3B2A&area=true&area_color=D4C2A0&title_color=4A3B2A&hide_border=true" width="100%" alt="Contribution graph" />
 </p>
 
 <!-- Snake: appears after you add .github/workflows/snake.yml and run it once -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" width="100%" alt="Snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/output/github-snake.svg" width="100%" alt="Snake eating my contributions" />
 </p>
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/divider.svg" width="100%" height="4" alt="" />
+<img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="4" alt="" />
 
 ## Let's Connect
 
