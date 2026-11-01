@@ -1,20 +1,20 @@
 <!-- Replace USERNAME everywhere with your GitHub username.
-     Theme: Navy 1F2A5A | Blue 3B5BDB | Purple 7048E8 | Beige F5EEDC -->
+     Theme: Dark brown 4A3B2A | Brown 8B6B4A | Camel B89B72 | Sand E8DCC4 | Cream F5EEDC -->
 
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C3FA8&height=250&section=header&text=Sukitha%20SK&fontSize=68&fontColor=F5EEDC&animation=fadeIn&fontAlignY=36&desc=Mechatronics%20Engineering%20Student&descSize=22&descAlignY=58" width="100%" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E8DCC4&height=250&section=header&text=Sukitha%20SK&fontSize=68&fontColor=4A3B2A&animation=fadeIn&fontAlignY=36&desc=Mechatronics%20Engineering%20Student&descSize=22&descAlignY=58" width="100%" alt="Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=5C6BF2&center=true&vCenter=true&width=820&height=45&lines=Designing+smart+systems+where+mechanics+meets+electronics;Robotics+%7C+IoT+%7C+Embedded+Systems;2x+Hackathon+Winner+%7C+Emcee+%7C+Team+Leader;Turning+real-world+problems+into+working+solutions" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B6B4A&center=true&vCenter=true&width=820&height=45&lines=Designing+smart+systems+where+mechanics+meets+electronics;Robotics+%7C+IoT+%7C+Embedded+Systems;2x+Hackathon+Winner+%7C+Emcee+%7C+Team+Leader;Turning+real-world+problems+into+working+solutions" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sukitha-sanjeevkumar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-3B5BDB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sksukitha07@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-7048E8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Coimbatore-India-EADFCB?style=for-the-badge&logo=googlemaps&logoColor=1F2A5A" alt="Location" />
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Visitors&color=1F2A5A&style=for-the-badge" alt="Visitors" />
+  <a href="https://www.linkedin.com/in/sukitha-sanjeevkumar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B6B4A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sksukitha07@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-B89B72?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Coimbatore-India-EADFCB?style=for-the-badge&logo=googlemaps&logoColor=4A3B2A" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Visitors&color=4A3B2A&style=for-the-badge" alt="Visitors" />
 </p>
 
 <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/divider.svg" width="100%" height="4" alt="" />
@@ -74,16 +74,16 @@ I'm also active in student communities as **Core Head of IETE Student Forum**, *
 </tr>
 <tr>
 <td valign="top" align="center">
-<img src="https://img.shields.io/badge/SOLIDWORKS-3B5BDB?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SOLIDWORKS" /><br>
-<img src="https://img.shields.io/badge/Fusion%20360-3B5BDB?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360" /><br>
-<img src="https://img.shields.io/badge/Ansys-3B5BDB?style=for-the-badge" alt="Ansys" /><br>
-<img src="https://img.shields.io/badge/MATLAB-3B5BDB?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+<img src="https://img.shields.io/badge/SOLIDWORKS-8B6B4A?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SOLIDWORKS" /><br>
+<img src="https://img.shields.io/badge/Fusion%20360-8B6B4A?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360" /><br>
+<img src="https://img.shields.io/badge/Ansys-8B6B4A?style=for-the-badge" alt="Ansys" /><br>
+<img src="https://img.shields.io/badge/MATLAB-8B6B4A?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
 </td>
 <td valign="top" align="center">
-<img src="https://img.shields.io/badge/Python-7048E8?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br>
-<img src="https://img.shields.io/badge/C++-7048E8?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /><br>
-<img src="https://img.shields.io/badge/Git-7048E8?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br>
-<img src="https://img.shields.io/badge/GitHub-7048E8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Python-B89B72?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br>
+<img src="https://img.shields.io/badge/C++-B89B72?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /><br>
+<img src="https://img.shields.io/badge/Git-B89B72?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br>
+<img src="https://img.shields.io/badge/GitHub-B89B72?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </td>
 <td valign="top" align="center">
 <img src="https://img.shields.io/badge/Embedded%20Systems-EADFCB?style=for-the-badge&labelColor=EADFCB" alt="Embedded Systems" /><br>
@@ -108,7 +108,7 @@ I'm also active in student communities as **Core Head of IETE Student Forum**, *
 ### 🦾 BTC SPAR: 6-DOF Robotic Arm
 Designed and built a six-degree-of-freedom arm integrating mechanical parts, motors and microcontroller-based control for precise movement.
 
-<img src="https://img.shields.io/badge/Robotics-3B5BDB?style=flat-square" /> <img src="https://img.shields.io/badge/Mechanical%20Design-7048E8?style=flat-square" /> <img src="https://img.shields.io/badge/Embedded-1F2A5A?style=flat-square" />
+<img src="https://img.shields.io/badge/Robotics-8B6B4A?style=flat-square" /> <img src="https://img.shields.io/badge/Mechanical%20Design-B89B72?style=flat-square" /> <img src="https://img.shields.io/badge/Embedded-4A3B2A?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
@@ -116,7 +116,7 @@ Designed and built a six-degree-of-freedom arm integrating mechanical parts, mot
 ### 🖐️ Prosthetic Arm
 A prosthetic arm system for assistive technology, combining mechanical design and control for functional movement.
 
-<img src="https://img.shields.io/badge/Assistive%20Tech-3B5BDB?style=flat-square" /> <img src="https://img.shields.io/badge/Mechatronics-7048E8?style=flat-square" /> <img src="https://img.shields.io/badge/Product%20Design-1F2A5A?style=flat-square" />
+<img src="https://img.shields.io/badge/Assistive%20Tech-8B6B4A?style=flat-square" /> <img src="https://img.shields.io/badge/Mechatronics-B89B72?style=flat-square" /> <img src="https://img.shields.io/badge/Product%20Design-4A3B2A?style=flat-square" />
 
 </td>
 </tr>
@@ -126,7 +126,7 @@ A prosthetic arm system for assistive technology, combining mechanical design an
 ### ⚡ IoT Speed Breaker Energy Generation
 An IoT-based speed breaker that generates energy from vehicle motion and monitors the output in real time.
 
-<img src="https://img.shields.io/badge/IoT-3B5BDB?style=flat-square" /> <img src="https://img.shields.io/badge/Sustainable%20Energy-7048E8?style=flat-square" /> <img src="https://img.shields.io/badge/Real--time%20Monitoring-1F2A5A?style=flat-square" />
+<img src="https://img.shields.io/badge/IoT-8B6B4A?style=flat-square" /> <img src="https://img.shields.io/badge/Sustainable%20Energy-B89B72?style=flat-square" /> <img src="https://img.shields.io/badge/Real--time%20Monitoring-4A3B2A?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
@@ -134,7 +134,7 @@ An IoT-based speed breaker that generates energy from vehicle motion and monitor
 ### 💧 IoT-Driven IV Liquid Monitoring
 A low-cost system that monitors IV fluid levels in real time and alerts nurses instantly.
 
-<img src="https://img.shields.io/badge/Healthcare%20IoT-3B5BDB?style=flat-square" /> <img src="https://img.shields.io/badge/Sensors-7048E8?style=flat-square" /> <img src="https://img.shields.io/badge/Low%20Cost-1F2A5A?style=flat-square" />
+<img src="https://img.shields.io/badge/Healthcare%20IoT-8B6B4A?style=flat-square" /> <img src="https://img.shields.io/badge/Sensors-B89B72?style=flat-square" /> <img src="https://img.shields.io/badge/Low%20Cost-4A3B2A?style=flat-square" />
 
 </td>
 </tr>
@@ -177,9 +177,9 @@ A low-cost system that monitors IV fluid levels in real time and alerts nurses i
 ### 📜 Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals-3B5BDB?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Fundamentals" />
-  <img src="https://img.shields.io/badge/MathWorks-MATLAB%20Onramp-7048E8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB Onramp" />
-  <img src="https://img.shields.io/badge/IBM-Design%20Thinking%20Practitioner-1F2A5A?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Design Thinking" />
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals-8B6B4A?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Fundamentals" />
+  <img src="https://img.shields.io/badge/MathWorks-MATLAB%20Onramp-B89B72?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB Onramp" />
+  <img src="https://img.shields.io/badge/IBM-Design%20Thinking%20Practitioner-4A3B2A?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Design Thinking" />
   <img src="https://img.shields.io/badge/NPTEL-3%20Courses-EADFCB?style=for-the-badge" alt="NPTEL" />
 </p>
 
@@ -189,16 +189,16 @@ A low-cost system that monitors IV fluid levels in real time and alerts nurses i
 ## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&bg_color=F5EEDC&title_color=3B5BDB&text_color=1F2A5A&icon_color=7048E8&border_color=D9CBB0" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&bg_color=F5EEDC&title_color=3B5BDB&text_color=1F2A5A&border_color=D9CBB0" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&bg_color=F5EEDC&title_color=8B6B4A&text_color=4A3B2A&icon_color=B89B72&border_color=D4C2A0" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&bg_color=F5EEDC&title_color=8B6B4A&text_color=4A3B2A&border_color=D4C2A0" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&background=F5EEDC&border=D9CBB0&ring=7048E8&fire=3B5BDB&currStreakNum=1F2A5A&sideNums=1F2A5A&currStreakLabel=7048E8&sideLabels=3B5BDB&dates=6B6B8A" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=USERNAME&background=F5EEDC&border=D4C2A0&ring=B89B72&fire=8B6B4A&currStreakNum=4A3B2A&sideNums=4A3B2A&currStreakLabel=B89B72&sideLabels=8B6B4A&dates=8B7B66" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=F5EEDC&color=3B5BDB&line=7048E8&point=1F2A5A&area=true&area_color=B197FC&title_color=1F2A5A&hide_border=true" width="100%" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=F5EEDC&color=8B6B4A&line=B89B72&point=4A3B2A&area=true&area_color=D4C2A0&title_color=4A3B2A&hide_border=true" width="100%" alt="Contribution graph" />
 </p>
 
 <!-- Snake: appears after you add .github/workflows/snake.yml and run it once -->
@@ -213,10 +213,10 @@ A low-cost system that monitors IV fluid levels in real time and alerts nurses i
 I'm happy to connect with students, engineers, mentors and teams working in **robotics, IoT, embedded systems, assistive technology, mechanical design and industrial automation**.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sukitha-sanjeevkumar/"><img src="https://img.shields.io/badge/LinkedIn-3B5BDB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sksukitha07@gmail.com"><img src="https://img.shields.io/badge/Email-7048E8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/sukitha-sanjeevkumar/"><img src="https://img.shields.io/badge/LinkedIn-8B6B4A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sksukitha07@gmail.com"><img src="https://img.shields.io/badge/Email-B89B72?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C3FA8&height=130&section=footer&animation=fadeIn" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E8DCC4&height=130&section=footer&animation=fadeIn" width="100%" alt="Footer" />
 </p>
