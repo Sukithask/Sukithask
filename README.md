@@ -52,17 +52,10 @@ I'm also active in student communities as **Core Head of IETE Student Forum**, *
 
 </details>
 
-<!-- ============ 02 HARDWARE ============ -->
-## [ 02 ] Hardware I Work With
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/components.svg" width="100%" alt="Animated microcontroller, servo, gears and bolt" />
-</p>
-
 <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="6" alt="" />
 
-<!-- ============ 03 SKILLS ============ -->
-## [ 03 ] Tech Arsenal
+<!-- ============ 02 SKILLS ============ -->
+## [ 02 ] Tech Arsenal
 
 <table>
 <tr>
@@ -96,14 +89,14 @@ I'm also active in student communities as **Core Head of IETE Student Forum**, *
 
 <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="6" alt="" />
 
-<!-- ============ 04 PROJECTS ============ -->
-## [ 04 ] How My Systems Think
+<!-- ============ 03 PROJECTS ============ -->
+## [ 03 ] How My Systems Think
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/pcb.svg" width="100%" alt="Animated sensors to microcontroller to actuators signal flow" />
 </p>
 
-## [ 05 ] Featured Projects
+## [ 04 ] Featured Projects
 
 <table>
 <tr>
@@ -149,8 +142,8 @@ A low-cost system that monitors IV fluid levels in real time and alerts nurses i
 
 <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="6" alt="" />
 
-<!-- ============ 06 EXPERIENCE ============ -->
-## [ 06 ] Experience
+<!-- ============ 05 EXPERIENCE ============ -->
+## [ 05 ] Experience
 
 | Role | Company | Highlights |
 |:---|:---|:---|
@@ -191,8 +184,8 @@ A low-cost system that monitors IV fluid levels in real time and alerts nurses i
 
 <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="6" alt="" />
 
-<!-- ============ 07 GITHUB ACTIVITY ============ -->
-## [ 07 ] GitHub Activity
+<!-- ============ 06 GITHUB ACTIVITY ============ -->
+## [ 06 ] GitHub Activity
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?Sukithask=Sukithask&show_icons=true&bg_color=0B0D0A&title_color=C6F35B&text_color=EDEDE6&icon_color=C6F35B&border_color=262B1E" alt="GitHub stats" />
@@ -214,7 +207,7 @@ A low-cost system that monitors IV fluid levels in real time and alerts nurses i
 
 <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="6" alt="" />
 
-## [ 08 ] Let's Connect
+## [ 07 ] Let's Connect
 
 I'm happy to connect with students, engineers, mentors and teams working in **robotics, IoT, embedded systems, assistive technology, mechanical design and industrial automation**.
 
