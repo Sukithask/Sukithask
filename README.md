@@ -1,4 +1,4 @@
-<!-- Replace Sukithask everywhere with your GitHub Sukithask.
+<!-- Sukithask is set to Sukithask. Change it if your GitHub Sukithask is different.
      Theme: Black 0B0A10 | Purple A78BFA | Deep purple 7C5CE0 | Text EEEBF5 -->
 
 <!-- ============ HERO ============ -->
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=A78BFA&background=0B0A10FF&center=true&vCenter=true&width=900&height=58&lines=%3E+Designing+smart+systems+where+mechanics+meets+electronics;%3E+Robotics+%7C+IoT+%7C+Embedded+Systems+%7C+Prosthetics;%3E+2x+Hackathon+Winner+%7C+Emcee+%7C+Team+Leader;%3E+Turning+real-world+problems+into+working+solutions" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=A78BFA&background=0B0A10FF&center=true&vCenter=true&width=900&height=58&lines=%3E+Designing+smart+systems+where+mechanics+meets+electronics;%3E+CAD+%7C+Robotics+%7C+IoT+%7C+Embedded+Systems;%3E+2x+Hackathon+Winner+%7C+Academic+Topper+%7C+Emcee;%3E+Turning+real-world+problems+into+working+solutions" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -24,47 +24,66 @@
 
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="48%" valign="top">
 
 I'm a **Mechatronics Engineering student at SNS College of Technology, Coimbatore**, building smart systems where **mechanical design, electronics, embedded control, robotics and IoT** meet.
 
-I turn ideas into practical solutions for **assistive technology, healthcare, automation and sustainable energy**, and I love leading teams, public speaking and hosting events.
+I turn ideas into practical solutions for **healthcare, automation and sustainable energy**, and I love public speaking and hosting events.
 
-- 🦾 Building a **prosthetic arm** for assistive technology
-- 🧑‍💼 **Team Manager** at B Touch Ind
 - 📈 **CGPA 9.60** and **Academic Topper**
+- 🏆 Winner of **Chemovate 2.0** and **Odyssey 3.0** hackathons
+- 🎤 **Emcee** for 17+ events
 - 🗣️ **English · Tamil · Hindi · Japanese**
 
 </td>
-<td width="48%" align="center" valign="middle">
-<img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/terminal.svg" width="100%" alt="Animated terminal" />
+<td width="52%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/terminal.svg" width="100%" alt="Animated terminal showing CAD and embedded commands" />
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>[ more about my journey ]</b></summary>
+<summary><b>[ more about me ]</b></summary>
 <br>
 
-My interests cover the whole product journey: understanding a problem, designing the mechanism, choosing components, writing control logic, building prototypes and improving them through testing and teamwork.
+I enjoy the whole journey from a problem to a working solution: understanding it, modelling it in CAD, simulating it, building it and improving it through testing and teamwork.
 
-I'm also active in student communities as **Core Head of IETE Student Forum**, **Vice President of Tronexus (Mechatronics Engineering Association)** and **Executive Member of the Robotics Club** at SNSCT.
+I'm active in student communities as **Core Head of IETE Student Forum**, **Vice President of Tronexus (Mechatronics Engineering Association)** and **Executive Member of the Robotics Club** at SNSCT.
 
 </details>
 
+<!-- floating keywords -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/floating.svg" width="100%" alt="Floating keywords: CAD, Robotics, Embedded, Simulation, and a Japanese greeting" />
+</p>
+
+<!-- ============ 02 TIMELINE ============ -->
+## [ 02 ] My Journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/timeline.svg" width="100%" alt="Animated timeline from 2024 to 2028" />
+</p>
+
 <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="6" alt="" />
 
-<!-- ============ 02 HARDWARE ============ -->
-## [ 02 ] Hardware I Work With
+<!-- ============ 03 HARDWARE ============ -->
+## [ 03 ] Hardware I Work With
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/components.svg" width="100%" alt="Animated microcontroller, servo, gears and bolt" />
 </p>
 
+<!-- ============ 04 CAD ============ -->
+## [ 04 ] From Sketch to Drawing
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/cad-sheet.svg" width="100%" alt="Animated CAD drawing sheet drawing itself" />
+</p>
+
 <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="6" alt="" />
 
-<!-- ============ 03 SKILLS ============ -->
-## [ 03 ] Tech Arsenal
+<!-- ============ 05 SKILLS ============ -->
+## [ 05 ] Tech Arsenal
 
 <table>
 <tr>
@@ -80,10 +99,10 @@ I'm also active in student communities as **Core Head of IETE Student Forum**, *
 <img src="https://img.shields.io/badge/MATLAB-A78BFA?style=for-the-badge&logo=mathworks&logoColor=0B0A10" alt="MATLAB" />
 </td>
 <td valign="top" align="center">
-<img src="https://img.shields.io/badge/Python-7C5CE0?style=for-the-badge&logo=python&logoColor=0B0A10" alt="Python" /><br>
-<img src="https://img.shields.io/badge/C++-7C5CE0?style=for-the-badge&logo=cplusplus&logoColor=0B0A10" alt="C++" /><br>
-<img src="https://img.shields.io/badge/Git-7C5CE0?style=for-the-badge&logo=git&logoColor=0B0A10" alt="Git" /><br>
-<img src="https://img.shields.io/badge/GitHub-7C5CE0?style=for-the-badge&logo=github&logoColor=0B0A10" alt="GitHub" />
+<img src="https://img.shields.io/badge/Python-7C5CE0?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br>
+<img src="https://img.shields.io/badge/C++-7C5CE0?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /><br>
+<img src="https://img.shields.io/badge/Git-7C5CE0?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br>
+<img src="https://img.shields.io/badge/GitHub-7C5CE0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </td>
 <td valign="top" align="center">
 <img src="https://img.shields.io/badge/Embedded%20Systems-2A2540?style=for-the-badge" alt="Embedded Systems" /><br>
@@ -96,30 +115,16 @@ I'm also active in student communities as **Core Head of IETE Student Forum**, *
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/radar.svg" width="100%" alt="Animated skill radar chart" />
+</p>
+
 <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="6" alt="" />
 
-<!-- ============ 04 PROJECTS ============ -->
-## [ 04 ] Featured Projects
+<!-- ============ 06 PROJECTS ============ -->
+## [ 06 ] Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🦾 BTC SPAR: 6-DOF Robotic Arm
-Designed and built a six-degree-of-freedom arm integrating mechanical parts, motors and microcontroller-based control for precise movement.
-
-<img src="https://img.shields.io/badge/Robotics-2A2540?style=flat-square" /> <img src="https://img.shields.io/badge/Mechanical%20Design-2A2540?style=flat-square" /> <img src="https://img.shields.io/badge/Embedded-2A2540?style=flat-square" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🖐️ Prosthetic Arm
-A prosthetic arm system for assistive technology, combining mechanical design and control for functional movement.
-
-<img src="https://img.shields.io/badge/Assistive%20Tech-2A2540?style=flat-square" /> <img src="https://img.shields.io/badge/Mechatronics-2A2540?style=flat-square" /> <img src="https://img.shields.io/badge/Product%20Design-2A2540?style=flat-square" />
-
-</td>
-</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -140,41 +145,30 @@ A low-cost system that monitors IV fluid levels in real time and alerts nurses i
 </tr>
 </table>
 
-<!-- Tip: add a real photo of a project by uploading it to assets/ and adding:
-     <img src="assets/spar-photo.jpg" width="100%" alt="BTC SPAR robotic arm" /> -->
+<sub>Also built: a 6-DOF robotic arm and a prosthetic arm.</sub>
 
 <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="6" alt="" />
 
-<!-- ============ 04 EXPERIENCE ============ -->
-## [ 05 ] Experience
+<!-- ============ 07 EXPERIENCE & ACHIEVEMENTS ============ -->
+## [ 07 ] Experience
 
 | Role | Company | Highlights |
 |:---|:---|:---|
-| **Team Manager** *(Present)* | B Touch Ind, Coimbatore | Prosthetic arm development for assistive technology; leading team coordination and project execution |
 | **Intern** | Frank Technologies Pvt. Ltd., Coimbatore | Industrial processes in air compressor manufacturing |
 | **Intern** | Lassol Private Limited, Coimbatore | Laser cutting and sheet metal fabrication |
-
-<table>
-<tr>
-<td width="50%" valign="top">
+| **Team Manager** | B Touch Ind, Coimbatore | |
 
 ### 🏆 Achievements
-- 🥇 Winner, **Chemovate 2.0** Hackathon
-- 🥇 Winner, **Odyssey 3.0** Hackathon
-- 🎓 **Academic Topper**, 2024–2025 and 2025–2026
-- 🎤 **Emcee** for 17+ events
 
-</td>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/achievements.svg" width="100%" alt="Animated achievement cards" />
+</p>
 
 ### 🤝 Leadership
+
 - **Core Head**, IETE Student Forum, SNSCT
 - **Vice President**, Mechatronics Engineering Association (Tronexus), SNSCT
 - **Executive Member**, Robotics Club, SNSCT
-
-</td>
-</tr>
-</table>
 
 ### 📜 Certifications
 
@@ -187,8 +181,8 @@ A low-cost system that monitors IV fluid levels in real time and alerts nurses i
 
 <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="6" alt="" />
 
-<!-- ============ 05 GITHUB ACTIVITY ============ -->
-## [ 06 ] GitHub Activity
+<!-- ============ 08 GITHUB ACTIVITY ============ -->
+## [ 08 ] GitHub Activity
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?Sukithask=Sukithask&show_icons=true&bg_color=0B0A10&title_color=A78BFA&text_color=EEEBF5&icon_color=A78BFA&border_color=2A2540" alt="GitHub stats" />
@@ -210,15 +204,15 @@ A low-cost system that monitors IV fluid levels in real time and alerts nurses i
 
 <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="6" alt="" />
 
-## [ 07 ] Let's Connect
+## [ 09 ] Let's Connect
 
-I'm happy to connect with students, engineers, mentors and teams working in **robotics, IoT, embedded systems, assistive technology, mechanical design and industrial automation**.
+I'm happy to connect with students, engineers, mentors and teams working in **robotics, IoT, embedded systems, mechanical design, simulation and industrial automation**.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sukitha-sanjeevkumar/"><img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=0B0A10" alt="LinkedIn" /></a>
   <a href="mailto:sksukitha07@gmail.com"><img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=0B0A10" alt="Email" /></a>
 </p>
 
-<p align="center"><sub><code>[ end of file · thanks for visiting ]</code></sub></p>
+<p align="center"><sub><code>[ end of file · thanks for visiting · ありがとう ]</code></sub></p>
 
 <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="6" alt="" />
