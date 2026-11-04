@@ -1,4 +1,4 @@
-<!-- Sukithask is set to Sukithask. Change it if your GitHub Sukithask is different.
+<!-- Username is set to Sukithask. Change it if your GitHub username is different.
      Theme: Black 0B0A10 | Purple A78BFA | Deep purple 7C5CE0 | Text EEEBF5 -->
 
 <!-- ============ HERO ============ -->
@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/sukitha-sanjeevkumar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-A78BFA?labelColor=171322&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sksukitha07@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-A78BFA?labelColor=171322&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Coimbatore-India-A78BFA?labelColor=171322&style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://komarev.com/ghpvc/?Sukithask=Sukithask&label=Visitors&color=7C5CE0&labelColor=171322&style=for-the-badge" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Sukithask&label=Visitors&color=7C5CE0&labelColor=171322&style=for-the-badge" alt="Visitors" />
 </p>
 
 <img src="https://raw.githubusercontent.com/Sukithask/Sukithask/main/assets/divider.svg" width="100%" height="6" alt="" />
@@ -185,16 +185,7 @@ A low-cost system that monitors IV fluid levels in real time and alerts nurses i
 ## [ 08 ] GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?Sukithask=Sukithask&show_icons=true&bg_color=0B0A10&title_color=A78BFA&text_color=EEEBF5&icon_color=A78BFA&border_color=2A2540" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?Sukithask=Sukithask&layout=compact&bg_color=0B0A10&title_color=A78BFA&text_color=EEEBF5&border_color=2A2540" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Sukithask&background=0B0A10&border=2A2540&ring=A78BFA&fire=A78BFA&currStreakNum=EEEBF5&sideNums=EEEBF5&currStreakLabel=A78BFA&sideLabels=8C88A0&dates=8C88A0" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?Sukithask=Sukithask&bg_color=0B0A10&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&area_color=A78BFA&title_color=A78BFA&hide_border=true" width="100%" alt="Contribution graph" />
 </p>
 
 <!-- Snake: appears after you add .github/workflows/snake.yml and run it once -->
